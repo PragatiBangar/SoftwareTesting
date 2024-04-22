@@ -1,0 +1,11 @@
+C:\SoftwareTesting\TestPracticeApp\ProductLib\bin\Debug\net8.0\ProductLib.deps.json
+C:\SoftwareTesting\TestPracticeApp\ProductLib\bin\Debug\net8.0\ProductLib.dll
+C:\SoftwareTesting\TestPracticeApp\ProductLib\bin\Debug\net8.0\ProductLib.pdb
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ProductLib.AssemblyInfoInputs.cache
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ProductLib.AssemblyInfo.cs
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ProductLib.csproj.CoreCompileInputs.cache
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ProductLib.dll
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\refint\ProductLib.dll
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ProductLib.pdb
+C:\SoftwareTesting\TestPracticeApp\ProductLib\obj\Debug\net8.0\ref\ProductLib.dll
