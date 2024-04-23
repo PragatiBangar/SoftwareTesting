@@ -1,0 +1,7 @@
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\bin\Debug\net8.0\CoverletSourceRootsMapping_HRTests
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\obj\Debug\net8.0\HRTests.csproj.AssemblyReference.cache
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\obj\Debug\net8.0\HRTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\obj\Debug\net8.0\HRTests.AssemblyInfoInputs.cache
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\obj\Debug\net8.0\HRTests.AssemblyInfo.cs
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\obj\Debug\net8.0\HRTests.csproj.CoreCompileInputs.cache
+C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HRTests\obj\Debug\net8.0\HRTests.sourcelink.json

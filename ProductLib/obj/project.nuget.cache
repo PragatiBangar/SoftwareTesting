@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "daX6jYswq3QxoNd2WW0kehC1OCrhW/dV5gf4PUyaP247xyYWl+Na7Sg8aWbD/wx0uE8IewVr5SAuBJ0e1W5LFQ==",
+  "dgSpecHash": "u8FLXqoViJQRfW6wgK7ny4fZUedOwB6kDlanF2aAeFZz8Np2dZjSoQFNthI8Ga3sJpBokoi945qzf8+GaQWrCw==",
   "success": true,
-  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\ProductLib\\ProductLib.csproj",
+  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\ProductLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

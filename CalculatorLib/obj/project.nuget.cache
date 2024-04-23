@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IbBffQf/6mxzyQDo0KoUyDIZ3iYUD2PjpoxmGLjqwTjRUKbF3gP1OT2YSZr8DWSWU9vwDjKCpkxzm3egR4XWKg==",
+  "dgSpecHash": "d4lGPM4BVxmlJd7624PaQASv7/+APm5CJtgLlDkvWM2nel8oxgwtk8ePp1V9BXG9I+/4k45FK9W6ilS5bC/4kA==",
   "success": true,
-  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\CalculatorLib\\CalculatorLib.csproj",
+  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
