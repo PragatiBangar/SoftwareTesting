@@ -10,3 +10,15 @@ C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HR\obj\Debug\net8.0\HR.dll
 C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HR\obj\Debug\net8.0\refint\HR.dll
 C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HR\obj\Debug\net8.0\HR.pdb
 C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\HR\obj\Debug\net8.0\ref\HR.dll
+C:\XUnitTestProject\SoftwareTesting\HR\bin\Debug\net8.0\HR.deps.json
+C:\XUnitTestProject\SoftwareTesting\HR\bin\Debug\net8.0\HR.dll
+C:\XUnitTestProject\SoftwareTesting\HR\bin\Debug\net8.0\HR.pdb
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.AssemblyInfoInputs.cache
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.AssemblyInfo.cs
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.csproj.CoreCompileInputs.cache
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.sourcelink.json
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.dll
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\refint\HR.dll
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\HR.pdb
+C:\XUnitTestProject\SoftwareTesting\HR\obj\Debug\net8.0\ref\HR.dll

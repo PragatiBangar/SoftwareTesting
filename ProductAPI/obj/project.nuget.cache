@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DA2EXQUFCIdTWJJNZNe/GCT4FriJ+fUfJAiQuvsHrQs/uNiAlum1VFDnAYEgnT0yTOHchtyM/7MCL0s8TSVFbw==",
+  "success": true,
+  "projectFilePath": "C:\\XUnitTestProject\\SoftwareTesting\\ProductAPI\\ProductAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
