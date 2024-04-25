@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HR.csproj": {}
+    "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HR.csproj": {}
   },
   "projects": {
-    "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HR.csproj": {
+    "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HR.csproj",
+        "projectUniqueName": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HR.csproj",
         "projectName": "HR",
-        "projectPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HR.csproj",
+        "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HR.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\obj\\",
+        "outputPath": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

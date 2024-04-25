@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1OAM3IaZeuAnIOw0v5aNsxmN4nX2xRG8XZvrNwH7DDy8bhR1Y0Vz/DubrtWeBcA4e3fHwMTaMVl4M/QEMvIh4w==",
+  "dgSpecHash": "BRt3Ctw/MvWLj1e6otIrCNvDpg/xE8GVo5my4Vid/AV433rzOmFxRPl5yde2GWYQyJV8WO24rw5sRGj2xaDlBQ==",
   "success": true,
-  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HR.csproj",
+  "projectFilePath": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HR.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

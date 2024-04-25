@@ -1,37 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\",
+  "WorkspaceRootPath": "C:\\XUnitTestProject\\SoftwareTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hrtests\\sampledata\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\sampledata\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hrtests\\utility\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\utility\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42928D24-B143-446C-A50B-A1D803397DAB}|ProductsAPI\\ProductsAPI.csproj|c:\\xunittestproject\\softwaretesting\\productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42928D24-B143-446C-A50B-A1D803397DAB}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hrtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42928D24-B143-446C-A50B-A1D803397DAB}|ProductsAPI\\ProductsAPI.csproj|c:\\xunittestproject\\softwaretesting\\productsapi\\productsapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{42928D24-B143-446C-A50B-A1D803397DAB}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hr\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|solutionrelative:hr\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hr\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|solutionrelative:hr\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hrtests\\hrtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\xunittestproject\\softwaretesting\\hrtests\\hrtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\hrtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\hrtests\\sampledata\\people.json||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\sampledata\\people.json||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{560574F6-7B0A-4D51-AC9D-3F81F363BBE9}|ProductXUnitTestProject\\ProductXUnitTestProject.csproj|c:\\xunittestproject\\softwaretesting\\productxunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560574F6-7B0A-4D51-AC9D-3F81F363BBE9}|ProductXUnitTestProject\\ProductXUnitTestProject.csproj|solutionrelative:productxunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA3322B5-B288-471C-98E4-6F2A6237BCB4}|CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj|c:\\softwaretesting\\testpracticeapp\\softwaretesting\\calculatorxunittestproject\\calculatorxunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3FD79E29-0FB0-4011-A8B2-F51767A2BBF2}|ProductLib\\ProductLib.csproj|c:\\xunittestproject\\softwaretesting\\productlib\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD79E29-0FB0-4011-A8B2-F51767A2BBF2}|ProductLib\\ProductLib.csproj|solutionrelative:productlib\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD79E29-0FB0-4011-A8B2-F51767A2BBF2}|ProductLib\\ProductLib.csproj|c:\\xunittestproject\\softwaretesting\\productlib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD79E29-0FB0-4011-A8B2-F51767A2BBF2}|ProductLib\\ProductLib.csproj|solutionrelative:productlib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3322B5-B288-471C-98E4-6F2A6237BCB4}|CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj|c:\\xunittestproject\\softwaretesting\\calculatorxunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA3322B5-B288-471C-98E4-6F2A6237BCB4}|CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj|solutionrelative:calculatorxunittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\xunittestproject\\softwaretesting\\hrtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\xunittestproject\\softwaretesting\\hrtests\\sampledata\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\sampledata\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|c:\\xunittestproject\\softwaretesting\\hrtests\\utility\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCCB9AA-E1C4-4FB9-A61B-AC339D077BB3}|HRTests\\HRTests.csproj|solutionrelative:hrtests\\utility\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|c:\\xunittestproject\\softwaretesting\\hr\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|solutionrelative:hr\\hrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|c:\\xunittestproject\\softwaretesting\\hr\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FC315D-1A38-4B7B-B7DC-598C2A6663E9}|HR\\HR.csproj|solutionrelative:hr\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA3322B5-B288-471C-98E4-6F2A6237BCB4}|CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj|c:\\xunittestproject\\softwaretesting\\calculatorxunittestproject\\calculatorxunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FA3322B5-B288-471C-98E4-6F2A6237BCB4}|CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj|solutionrelative:calculatorxunittestproject\\calculatorxunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -47,106 +70,173 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "people.json",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\SampleData\\people.json",
-              "RelativeDocumentMoniker": "HRTests\\SampleData\\people.json",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\SampleData\\people.json",
-              "RelativeToolTip": "HRTests\\SampleData\\people.json",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwBMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T17:16:42.559Z",
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGwUAAAAAAAAAAAAAIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-24T17:46:30.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "people.json",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\SampleData\\people.json",
-              "RelativeDocumentMoniker": "HRTests\\SampleData\\people.json",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\SampleData\\people.json",
-              "RelativeToolTip": "HRTests\\SampleData\\people.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T17:11:52.877Z",
+              "DocumentIndex": 2,
+              "Title": "ProductsAPI",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.csproj",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T17:27:40.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataManager.cs",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\Utility\\DataManager.cs",
-              "RelativeDocumentMoniker": "HRTests\\Utility\\DataManager.cs",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\Utility\\DataManager.cs",
-              "RelativeToolTip": "HRTests\\Utility\\DataManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T17:06:06.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T17:22:53.179Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HRTests",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\HRTests.csproj",
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProductLib\\ProductManager.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductManager.cs",
+              "RelativeToolTip": "ProductLib\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:14:41.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorXUnitTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorXUnitTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:12:14.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\ProductXUnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductXUnitTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\ProductXUnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "ProductXUnitTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:13:27.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\Product.cs",
+              "RelativeDocumentMoniker": "ProductLib\\Product.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\Product.cs",
+              "RelativeToolTip": "ProductLib\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:11:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "people.json",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\SampleData\\people.json",
+              "RelativeDocumentMoniker": "HRTests\\SampleData\\people.json",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\SampleData\\people.json",
+              "RelativeToolTip": "HRTests\\SampleData\\people.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T17:10:16.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRTests.csproj",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\HRTests.csproj",
               "RelativeDocumentMoniker": "HRTests\\HRTests.csproj",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\HRTests.csproj",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\HRTests.csproj",
               "RelativeToolTip": "HRTests\\HRTests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-23T17:04:29.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "HRManager.cs",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HRManager.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HRManager.cs",
               "RelativeDocumentMoniker": "HR\\HRManager.cs",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\HRManager.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\HRManager.cs",
               "RelativeToolTip": "HR\\HRManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:48:48.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:48:48.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\Person.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\Person.cs",
               "RelativeDocumentMoniker": "HR\\Person.cs",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HR\\Person.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\HR\\Person.cs",
               "RelativeToolTip": "HR\\Person.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAwAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:46:37.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:46:37.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "HRTests\\UnitTest1.cs",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\UnitTest1.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\UnitTest1.cs",
               "RelativeToolTip": "HRTests\\UnitTest1.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:44:32.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:44:32.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CalculatorXUnitTestProject",
-              "DocumentMoniker": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
+              "DocumentIndex": 13,
+              "Title": "CalculatorXUnitTestProject.csproj",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
               "RelativeDocumentMoniker": "CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
-              "ToolTip": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
               "RelativeToolTip": "CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-23T16:38:55.874Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\Utility\\DataManager.cs",
+              "RelativeDocumentMoniker": "HRTests\\Utility\\DataManager.cs",
+              "ToolTip": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\Utility\\DataManager.cs",
+              "RelativeToolTip": "HRTests\\Utility\\DataManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:06:06.633Z"
             },
             {
               "$type": "Bookmark",

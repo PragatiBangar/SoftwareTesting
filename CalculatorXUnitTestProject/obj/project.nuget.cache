@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WXrhG9yiazZ71rCCOO85SfYw+ctwwh66oaqqLbttWkcwsk7XZiOpKmCGhbN9zHAQVLdlN4F93RlwFO+QBLOWbA==",
+  "dgSpecHash": "7L1p1tIOOk7jqWOxdKVaDi2xoFp2lkrPY6ui9nz93qjjOtQeG4Zxbcs/igv/BQavg8o/lp4gbIyEpYWgnBtzww==",
   "success": true,
-  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
+  "projectFilePath": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj": {}
+    "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj": {
+    "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj",
+        "projectUniqueName": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj",
         "projectName": "CalculatorLib",
-        "projectPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj",
+        "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\obj\\",
+        "outputPath": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj": {
+    "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
+        "projectUniqueName": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
         "projectName": "CalculatorXUnitTestProject",
-        "projectPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
+        "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\CalculatorXUnitTestProject.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorXUnitTestProject\\obj\\",
+        "outputPath": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorXUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,11 +98,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj": {
-                "projectPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj"
+              "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj": {
+                "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\CalculatorLib\\CalculatorLib.csproj"
               },
-              "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\ProductLib.csproj": {
-                "projectPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\ProductLib.csproj"
+              "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductLib.csproj": {
+                "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductLib.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\ProductLib.csproj": {
+    "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\ProductLib.csproj",
+        "projectUniqueName": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductLib.csproj",
         "projectName": "ProductLib",
-        "projectPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\ProductLib.csproj",
+        "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\ProductLib.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\ProductLib\\obj\\",
+        "outputPath": "C:\\XUnitTestProject\\SoftwareTesting\\ProductLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

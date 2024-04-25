@@ -66,12 +66,12 @@ namespace CalculatorXUnitTestProject
         public void Test5()
         {
             //Arrange
-            ProductManager productManager = new ProductManager();
+            
             Product expectedResult = new Product { Id = 1, Name = "Rose", Description = "beautiful flower", UnitPrice = 20 };
-            int id = 23;
+            
 
             //Act
-            Product actualResult = productManager.GetProduct(id);
+            Product actualResult = ProductManager.GetProduct();
 
             //Assert
             Assert.Equal(expectedResult, actualResult);

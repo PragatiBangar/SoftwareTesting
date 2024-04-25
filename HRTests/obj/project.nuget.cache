@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "78majeQypQMjn9QNc52KALfb/R9WDZJTc+X4HiVkvIJtb6NWWd44rUIqIpB6fQ4T7pK0Dw8/ZNT8sl48D8Jl5Q==",
+  "dgSpecHash": "DySQXEo/aQzyy3rZ15jRukhAKOmzVUMvsLa++kGKu5wTMttQdxZ27k8N2eFmyi9dtCV7wRGAQ6ODtcFbZx9aoQ==",
   "success": true,
-  "projectFilePath": "C:\\SoftwareTesting\\TestPracticeApp\\SoftwareTesting\\HRTests\\HRTests.csproj",
+  "projectFilePath": "C:\\XUnitTestProject\\SoftwareTesting\\HRTests\\HRTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

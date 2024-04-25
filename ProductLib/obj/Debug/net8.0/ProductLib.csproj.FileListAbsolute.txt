@@ -21,3 +21,15 @@ C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\ProductLib\obj\Debug\net8.0\P
 C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\ProductLib\obj\Debug\net8.0\refint\ProductLib.dll
 C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.pdb
 C:\SoftwareTesting\TestPracticeApp\SoftwareTesting\ProductLib\obj\Debug\net8.0\ref\ProductLib.dll
+C:\XUnitTestProject\SoftwareTesting\ProductLib\bin\Debug\net8.0\ProductLib.deps.json
+C:\XUnitTestProject\SoftwareTesting\ProductLib\bin\Debug\net8.0\ProductLib.dll
+C:\XUnitTestProject\SoftwareTesting\ProductLib\bin\Debug\net8.0\ProductLib.pdb
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.AssemblyInfoInputs.cache
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.AssemblyInfo.cs
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.csproj.CoreCompileInputs.cache
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.sourcelink.json
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.dll
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\refint\ProductLib.dll
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ProductLib.pdb
+C:\XUnitTestProject\SoftwareTesting\ProductLib\obj\Debug\net8.0\ref\ProductLib.dll
