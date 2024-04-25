@@ -8,14 +8,31 @@ namespace HRTests
         public void Test1()
         {
             //Arrange
-            DataManager dataManager = new DataManager();
-            List<Person> expectedPersons = dataManager.GetJsonData();
+            
+            List<Person> expectedPersons = DataManager.GetJsonData();
 
             //Act
             List<Person> actualPersons = HRManager.GetAllPersons();
 
             //Assert
             Assert.Equal(expectedPersons, actualPersons);
+
+
+        }
+
+        [Fact]
+        public void Test2()
+        {
+
+            //Arrange
+            bool expectedResult = true;
+
+            //Act
+            
+            bool actualResult = DataManager.SetJsonData();
+
+            //Assert
+            Assert.Equal(expectedResult, actualResult);
 
 
         }
