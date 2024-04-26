@@ -1,0 +1,12 @@
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.AssemblyInfoInputs.cache
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.AssemblyInfo.cs
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.csproj.CoreCompileInputs.cache
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.csproj.AssemblyReference.cache
+C:\SoftwareTesting\TFLAssessment\QuestionBank\bin\Debug\net8.0\QuestionBank.deps.json
+C:\SoftwareTesting\TFLAssessment\QuestionBank\bin\Debug\net8.0\QuestionBank.dll
+C:\SoftwareTesting\TFLAssessment\QuestionBank\bin\Debug\net8.0\QuestionBank.pdb
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.dll
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\refint\QuestionBank.dll
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.pdb
+C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\ref\QuestionBank.dll

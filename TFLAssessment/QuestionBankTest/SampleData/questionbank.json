@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "title": "Number of primitive data types in Java are?"
+  },
+  {
+    "id": 2,
+    "title": "Number of primitive data types in Java are?"
+  },
+  {
+    "id": 3,
+    "title": "Who developed object-oriented programming?"
+  },
+  {
+    "id": 4,
+    "title": "Which of the following is not an OOPS concept?"
+  },
+  {
+    "id": 5,
+    "title": "Which of the following language supports polymorphism but not the classes?"
+  },
+  {
+    "id": 6,
+    "title": "Spring Boot is used for developing?"
+  },
+  {
+    "id": 7,
+    "title": "How can a Spring Boot application be packaged and distributed?"
+  },
+  {
+    "id": 8,
+    "title": "What AOP stands for?"
+  },
+  {
+    "id": 9,
+    "title": "Which of the following is the correct name of React.js?"
+  },
+  {
+    "id": 10,
+    "title": "How to use ref keyword in beans.xml?"
+  },
+  {
+    "id": 11,
+    "title": "What is the role of HTML helper in ASP.NET MVC?"
+  },
+  {
+    "id": 12,
+    "title": "Which ASP.NET MVC filter will be executed at last during request processing in ASP.NET MVC Pipeline?"
+  },
+  {
+    "id": 13,
+    "title": "Which server , we can not deploy asp.net core Application?"
+  },
+  {
+    "id": 14,
+    "title": "ECommerce Application is built using ASP.NET object Model. Which ASP.NET object would be used to maintain Shopping Cart across number of requests being received from users?"
+  },
+  {
+    "id": 15,
+    "title": "Which namespace is used ASP.NET MVC for JSON serialization?"
+  },
+  {
+    "id": 16,
+    "title": "Which of the following statement is TRUE?"
+  },
+  {
+    "id": 17,
+    "title": "Visual Studio .NET tool is used to build WCF Service Application project. The project contains web.config file. Which is the root element in configuration file for WCF Service declaration?"
+  },
+  {
+    "id": 18,
+    "title": "Which of the following is used to check the validity of the model in ASP.NET Web API?"
+  },
+  {
+    "id": 19,
+    "title": "Which component is essential for collecting data using Connected Data Access Mode?"
+  },
+  {
+    "id": 20,
+    "title": "Which configuration file is used to change configuration setting that will affect only the current Web application?"
+  },
+  {
+    "id": 21,
+    "title": "Customer is demanding to buid web solution using decoupled , reusable , stateless Application logic. Which type of attribute would help to define reusable, corss platfrom, stateless application logic."
+  },
+  {
+    "id": 22,
+    "title": "Which is not the data object used for data transfer in ASP.NET MVC?"
+  },
+  {
+    "id": 23,
+    "title": ".Which of these is an attribute that you can apply to a controller action or an entire controller that modifies the way in which the action is executed?"
+  },
+  {
+    "id": 24,
+    "title": "Which statement is correct about Response.Output.Write()?"
+  },
+  {
+    "id": 25,
+    "title": "Which of the following tool is used to manage the GAC in .NET Framework?"
+  },
+  {
+    "id": 26,
+    "title": "Which method of DBContext class reflects changes to database for CRUD Operation in .net while implementing Entity Framework?"
+  },
+  {
+    "id": 27,
+    "title": "Which File extension is used for defining views in ASP.NET Core MVC?"
+  },
+  {
+    "id": 28,
+    "title": "Which of the following is not a member of ADO.NET Command object?"
+  },
+  {
+    "id": 29,
+    "title": "What is the best practice to isolate connection string while using asp.net core application?"
+  },
+  {
+    "id": 30,
+    "title": "How do you get information from a form that is submitted using the \"post\" method?"
+  },
+  {
+    "id": 31,
+    "title": "Which degault pages technology is used default for presentation logic implementation in ASP.NET MVC based Applications"
+  },
+  {
+    "id": 32,
+    "title": "Which Request/Response data fromat supported by Web API by default?"
+  },
+  {
+    "id": 33,
+    "title": "Which of the following types of routing supported in Web API?"
+  },
+  {
+    "id": 34,
+    "title": "Which interface must be implemented to provide querying facility in LINQ?"
+  },
+  {
+    "id": 35,
+    "title": "What is the default injection type of Unit Container used in ASP.NET Core"
+  },
+  {
+    "id": 36,
+    "title": "Which is the following .net cli command used to create and build Single Page Applicaion?"
+  },
+  {
+    "id": 37,
+    "title": "Which of the following term define rules for .Net Languages?"
+  },
+  {
+    "id": 38,
+    "title": "Which component of .net Architecture defines Events and Delegate?"
+  },
+  {
+    "id": 39,
+    "title": "What is the Assembly scope of an .net type defined in Code ?"
+  },
+  {
+    "id": 40,
+    "title": "Which is the incorrect syntax of array in C# ?"
+  },
+  {
+    "id": 41,
+    "title": "Which access specifier will you use to make base class members accessible in the derived class and not accessible for the rest of the program?"
+  },
+  {
+    "id": 42,
+    "title": "What is Nullable type?"
+  },
+  {
+    "id": 43,
+    "title": "Which type of inheritance is not supported in C# Programming?"
+  },
+  {
+    "id": 44,
+    "title": "What is the type of structure (struct) in C# Programming Language?"
+  },
+  {
+    "id": 45,
+    "title": "Missing Explicit Typecasting in code leads to following type of error."
+  },
+  {
+    "id": 46,
+    "title": "Which namespace provide a specialized form of reflection that enables you to build types at runtime?"
+  },
+  {
+    "id": 47,
+    "title": "Which file extention define .net external dependencies needed for buliding .net core application?"
+  },
+  {
+    "id": 48,
+    "title": "Which of the following statement is correct MySQL database connection string ?"
+  },
+  {
+    "id": 49,
+    "title": "Which of the following class is used to send HTTP requires in .NET?"
+  },
+  {
+    "id": 50,
+    "title": "What is the name of Default Application Pool in IIS?"
+  },
+  {
+    "id": 51,
+    "title": "Which of the following object is used along with application object in order to ensure that only one process accesses a variable at a time?"
+  },
+  {
+    "id": 52,
+    "title": "Which Class is used to make a thread instance explicitly?"
+  },
+  {
+    "id": 53,
+    "title": "Which of the following is not a valid data type in JavaScript?"
+  },
+  {
+    "id": 54,
+    "title": "What does the 'this' keyword refer to in JavaScript?"
+  },
+  {
+    "id": 55,
+    "title": "How do you declare a variable in JavaScript that cannot be reassigned?"
+  },
+  {
+    "id": 56,
+    "title": "What function is used to change the state in React?"
+  },
+  {
+    "id": 57,
+    "title": "Which method is called immediately after a component is inserted into the DOM in React?"
+  },
+  {
+    "id": 58,
+    "title": "What is JSX in React?"
+  },
+  {
+    "id": 59,
+    "title": "In Angular, what does NgModule decorator do?"
+  },
+  {
+    "id": 60,
+    "title": "Which Angular feature allows you to subscribe to changes in the router's navigation events?"
+  },
+  {
+    "id": 61,
+    "title": "In Angular, what is the purpose of the 'ngOnInit' lifecycle hook?"
+  },
+  {
+    "id": 62,
+    "title": "What is a characteristic of microservices architecture?"
+  },
+  {
+    "id": 63,
+    "title": "Which of the following is a benefit of using microservices?"
+  },
+  {
+    "id": 64,
+    "title": "Which technology is commonly used for inter-service communication in microservices architecture?"
+  },
+  {
+    "id": 66,
+    "title": "Who developed object-oriented programming?"
+  },
+  {
+    "id": 67,
+    "title": "Who developed object-oriented programming?"
+  }
+]
