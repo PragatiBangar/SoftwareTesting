@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj": {}
+    "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj": {}
   },
   "projects": {
-    "C:\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj": {
+    "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj",
+        "projectUniqueName": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj",
         "projectName": "QuestionBankAPI",
-        "projectPath": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj",
+        "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\QuestionBankAPI.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\obj\\",
+        "outputPath": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBankAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj": {
-                "projectPath": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj"
+              "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj": {
+                "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj": {
+    "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj",
+        "projectUniqueName": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj",
         "projectName": "QuestionBank",
-        "projectPath": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj",
+        "projectPath": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBank\\QuestionBank.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareTesting\\TFLAssessment\\QuestionBank\\obj\\",
+        "outputPath": "C:\\XUnitTestProject\\SoftwareTesting\\TFLAssessment\\QuestionBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

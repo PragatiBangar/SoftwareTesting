@@ -10,3 +10,16 @@ C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.dll
 C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\refint\QuestionBank.dll
 C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.pdb
 C:\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\ref\QuestionBank.dll
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\bin\Debug\net8.0\QuestionBank.deps.json
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\bin\Debug\net8.0\QuestionBank.dll
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\bin\Debug\net8.0\QuestionBank.pdb
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.csproj.AssemblyReference.cache
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.AssemblyInfoInputs.cache
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.AssemblyInfo.cs
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.csproj.CoreCompileInputs.cache
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.sourcelink.json
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.dll
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\refint\QuestionBank.dll
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\QuestionBank.pdb
+C:\XUnitTestProject\SoftwareTesting\TFLAssessment\QuestionBank\obj\Debug\net8.0\ref\QuestionBank.dll

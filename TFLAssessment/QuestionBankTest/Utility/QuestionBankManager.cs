@@ -18,7 +18,7 @@ namespace QuestionBankTest.Utility
             //Use JsonSerializer.Deserialize method
             //retrieve list of person data
             //return list of person data
-            string fileName = @"C:/SoftwareTesting/TFLAssessment/QuestionBankTest/SampleData/questionbank.json";
+            string fileName = @"C:/XUnitTestProject/SoftwareTesting/TFLAssessment/QuestionBankTest/SampleData/questionbank.json";
             string jsonString = File.ReadAllText(fileName);
             List<QuestionTitle> jsonPeople = JsonSerializer.Deserialize<List<QuestionTitle>>(jsonString);
             return jsonPeople;
